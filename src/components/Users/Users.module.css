@@ -1,0 +1,15 @@
+.users {
+    width: 100%;
+}
+.userImg {
+    width: 150px;
+}
+.userItem {
+    display: flex;
+    margin-bottom: 15px;
+}
+.userInfo {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}

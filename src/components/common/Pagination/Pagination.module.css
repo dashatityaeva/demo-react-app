@@ -1,0 +1,9 @@
+
+.pageNumber {
+  padding: 2px;
+  border: 1px solid #000;
+}
+.pageNumber.pageActive {
+  font-weight: bold;
+  border-color: aqua;
+}

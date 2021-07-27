@@ -1,0 +1,16 @@
+.dialogs {
+    display: flex;
+    height: 100%;
+}
+.dialogsItems {
+    width: 50%;
+}
+.messages {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.dialogActive {
+    color: rgb(9, 155, 106);
+}

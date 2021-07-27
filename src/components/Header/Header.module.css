@@ -1,0 +1,13 @@
+.header {
+    grid-area: h;
+    background-color: rgb(141, 202, 243);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header img {
+    height: 80%;
+    border-radius: 50px;
+    margin-left: 10px;
+}

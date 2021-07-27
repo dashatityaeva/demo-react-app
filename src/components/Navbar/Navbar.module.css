@@ -1,0 +1,21 @@
+.nav {
+    grid-area: n;
+    background-color: rgb(145, 247, 97);
+}
+
+.list {
+    padding: 0;
+}
+.item {
+    list-style: none;
+    cursor: pointer;
+    margin: 10px;
+}
+.item a {
+    color: #8b8b8b;
+    text-decoration: none;
+}
+
+.item a.activeLink {
+    color: #414141;
+}
